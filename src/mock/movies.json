@@ -1,0 +1,401 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 943822,
+        "original_language": "en",
+        "original_title": "Prizefighter: The Life of Jem Belcher",
+        "overview": "A principios del siglo XIX, el pugilismo era el deporte de los reyes y un talentoso joven boxeador luchó para convertirse en campeón de Inglaterra.",
+        "popularity": 2522.636,
+        "poster_path": "/grjCm3K0eWgNT7gHsE766oXs0VW.jpg",
+        "release_date": "2022-06-30",
+        "title": "Rey del anillo: La historia de Jem Belcher",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 785084,
+        "original_language": "en",
+        "original_title": "The Whale",
+        "overview": "Un profesor de inglés solitario que sufre de obesidad severa intenta volver a conectarse con su hija adolescente separada para tener una última oportunidad de redención.",
+        "popularity": 2029.776,
+        "poster_path": "/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg",
+        "release_date": "2022-12-09",
+        "title": "La ballena",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1224
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751
+        ],
+        "id": 315162,
+        "original_language": "en",
+        "original_title": "Puss in Boots: The Last Wish",
+        "overview": "El audaz forajido Gato con Botas descubre que su pasión por el peligro y su desprecio por la seguridad le han pasado factura. El Gato ha quemado ocho de sus nueve vidas, aunque ha perdido la cuenta por el camino. Recuperar esas vidas hará que el Gato con Botas emprenda su mayor búsqueda hasta ahora; la mítica Estrella de los Deseos.",
+        "popularity": 1972.345,
+        "poster_path": "/lyP4WNmUiiOgl4g2z7ywE0z6SGF.jpg",
+        "release_date": "2022-12-07",
+        "title": "Gato con Botas: El último deseo",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 4613
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 505642,
+        "original_language": "en",
+        "original_title": "Black Panther: Wakanda Forever",
+        "overview": "La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan por embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de Nakia y Everett Ross y forjar un nuevo camino para el reino de Wakanda.",
+        "popularity": 1798.789,
+        "poster_path": "/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+        "release_date": "2022-11-09",
+        "title": "Pantera Negra: Wakanda por siempre",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 4097
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/22z44LPkMyf5nyyXvv8qQLsbom.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 631842,
+        "original_language": "en",
+        "original_title": "Knock at the Cabin",
+        "overview": "Mientras está de vacaciones en una cabaña remota, una niña y sus padres son tomados como rehenes por cuatro extraños armados que exigen que la familia tome una decisión impensable para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia debe decidir en qué cree antes de que todo se pierda.",
+        "popularity": 1631.885,
+        "poster_path": "/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+        "release_date": "2023-02-01",
+        "title": "Llaman a la puerta",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 1010
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pxJbfnMIQQxCrdeLD0zQnWr6ouL.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1077280,
+        "original_language": "en",
+        "original_title": "Die Hart",
+        "overview": "El cómico estadounidense Kevin Hart quiere ser una estrella de acción, pero para conseguir un papel que cambie su vida, primero tiene que aprender a ser un héroe de acción.",
+        "popularity": 1398.005,
+        "poster_path": "/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg",
+        "release_date": "2023-02-22",
+        "title": "Hart: Duro de entrenar",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 180
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AsEgGeccI32SwMBkxpwhOkhbzmF.jpg",
+        "genre_ids": [
+          28,
+          878,
+          53,
+          27
+        ],
+        "id": 1011679,
+        "original_language": "en",
+        "original_title": "Shark Side of the Moon",
+        "overview": "Hace décadas, la URSS desarrolló tiburones indestructibles y los lanzó a la luna. Hoy, un equipo de astronautas estadounidenses se enfrentará a la lucha más importante de su vida.",
+        "popularity": 1383.229,
+        "poster_path": "/n4WFqga2OXJMudjCmggKeDiuD7N.jpg",
+        "release_date": "2022-08-12",
+        "title": "Tiburones en La Luna",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 545611,
+        "original_language": "en",
+        "original_title": "Everything Everywhere All at Once",
+        "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn (Michelle Yeoh), una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
+        "popularity": 1335.103,
+        "poster_path": "/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg",
+        "release_date": "2022-03-24",
+        "title": "Todo en todas partes al mismo tiempo",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 3727
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 646389,
+        "original_language": "en",
+        "original_title": "Plane",
+        "overview": "En la noche de fin de año, el piloto experto Brodie Torrance (Gerard Butler) realiza un arriesgado aterrizaje cuando su avión, repleto de pasajeros, es alcanzado por un rayo. Perdidos en medio de una isla devastada por la guerra, Torrance se dará cuenta que sobrevivir al vuelo sólo ha sido el principio de una terrible aventura llena de peligros. El piloto deberá usar todo su ingenio para intentar llevar a los pasajeros a sus destinos sanos y salvos.",
+        "popularity": 1204.689,
+        "poster_path": "/juoinefK6tMbjwJhRpRvbAAmrTB.jpg",
+        "release_date": "2023-01-12",
+        "title": "Alerta Extrema",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 881
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 677179,
+        "original_language": "en",
+        "original_title": "Creed III",
+        "overview": "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damián, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años. Por ello, querrá enfrentarse en el cuadrilátero con su antiguo amigo.  Adonis Creed tendrá que enfrentarse a este adversario, que no solo quiere quitarle su título de boxeador, sino que desea acabar con él.",
+        "popularity": 1118.721,
+        "poster_path": "/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+        "release_date": "2023-03-01",
+        "title": "Creed III",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 76600,
+        "original_language": "en",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "La historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que les persiguen, lo que hacen para mantenerse a salvo, las batallas que libran para seguir vivos y las tragedias que soportan.",
+        "popularity": 956.637,
+        "poster_path": "/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg",
+        "release_date": "2022-12-14",
+        "title": "Avatar: El camino del agua",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 5748
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bvAMLx00BOr6vkSQWZscwGrPdGI.jpg",
+        "genre_ids": [
+          53,
+          28,
+          18,
+          80
+        ],
+        "id": 1058949,
+        "original_language": "en",
+        "original_title": "Little Dixie",
+        "overview": "Doc facilita una frágil tregua entre el Gobernador y un cartel, intercambiando indulgencia fiscal por finanzas. Cuando esta tregua se disuelve, Doc debe valerse por sí mismo y proteger lo único inmaculado en su vida: su hija, Little Dixie.",
+        "popularity": 918.963,
+        "poster_path": "/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+        "release_date": "2023-02-03",
+        "title": "Little Dixie",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nDg8feBTHh52YCAuXpFWynznqAh.jpg",
+        "genre_ids": [
+          53,
+          28
+        ],
+        "id": 850871,
+        "original_language": "es",
+        "original_title": "Sayen",
+        "overview": "Sayen, una mujer mapuche, descubre una peligrosa conspiración liderada por una corporación que está destruyendo las tierras de su familia y destruyendo los ecosistemas locales en toda América Latina. Sayen tendrá la tarea de llevar el caso ante la justicia y salvar el legado de su familia. Primera entrega de una trilogía.",
+        "popularity": 918.47,
+        "poster_path": "/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+        "release_date": "2023-03-03",
+        "title": "Sayen",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+        "genre_ids": [
+          878,
+          27,
+          35
+        ],
+        "id": 536554,
+        "original_language": "en",
+        "original_title": "M3GAN",
+        "overview": "Cuando Gemma se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady, Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3GAN con Cady en un intento de resolver ambos problemas, una decisión que tendrá consecuencias inimaginables.",
+        "popularity": 843.959,
+        "poster_path": "/ogSpQMynabVu91Bi7AuUA8tshfb.jpg",
+        "release_date": "2022-12-28",
+        "title": "M3GAN",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 2048
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ae4xZiU7IeFVrvXxm2GjdcTrBm.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 934433,
+        "original_language": "en",
+        "original_title": "Scream VI",
+        "overview": "Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) y Chad (Mason Gooding) quieren tener una vida completamente normal, por ello, después de la masacre final de Ghostface en Woodsboro, deciden mudarse a Nueva York. Todos ellos quieren abandonar esas horribles vivencias que sufrieron en su pequeño pueblo. Sin embargo, no pueden escapar tan fácilmente de sus problemas y les volverá a perseguir, el ya conocido, asesino con una máscara de fantasma. Lo comienzan a ver en el metro, en el supermercado, en medio de la gran ciudad. Sam, Tara, Mindy y Chad no están dispuestos a rendirse y se preparan para acabar con él y volver a vivir en tranquilidad.",
+        "popularity": 821.579,
+        "poster_path": "/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg",
+        "release_date": "2023-03-08",
+        "title": "Scream 6",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/af1tFYzzT2mHIy2l7nTIU8PWfak.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 842942,
+        "original_language": "en",
+        "original_title": "Bandit",
+        "overview": "Después de escapar de una prisión de Michigan, un audaz criminal asume una nueva identidad en Canadá y pasa a robar un récord de 59 bancos y joyerías mientras es perseguido.",
+        "popularity": 819.926,
+        "poster_path": "/v5jhPjNnHinTeOlT6oWhwrf40L7.jpg",
+        "release_date": "2022-09-23",
+        "title": "Bandit",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 123
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/32GH8Mi4GmTPIQyd6IW1FFrHWrj.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 965839,
+        "original_language": "en",
+        "original_title": "Lord of the Streets",
+        "overview": "Cuando Jason Dyson se niega a hacer que su preciado peleador lance un combate de MMA, un notorio gángster cobra su deuda matando al peleador y secuestrando a la hija de Jason. Ahora debe entrenar a una prisionera para que soporte cinco peleas clandestinas consecutivas para salvarla.",
+        "popularity": 776.661,
+        "poster_path": "/4zjnfnmbyKaGS2brcTErff4eh4j.jpg",
+        "release_date": "2022-04-22",
+        "title": "Lord of the Streets",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xnAi4BRoO3ZQ3wwxGn6UNoxQzDq.jpg",
+        "genre_ids": [
+          80,
+          28
+        ],
+        "id": 823999,
+        "original_language": "it",
+        "original_title": "Diabolik - Ginko all'attacco!",
+        "overview": "Sigue a Diabolik y su cómplice Eva Kant en una nueva aventura contra un Inspector Ginko más combativo que nunca.",
+        "popularity": 774.758,
+        "poster_path": "/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg",
+        "release_date": "2022-11-17",
+        "title": "Diabolik - Ginko all'attacco!",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 103
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gslT8t964rYXyqRcqrxFh77ikyb.jpg",
+        "genre_ids": [
+          12,
+          878,
+          35
+        ],
+        "id": 640146,
+        "original_language": "en",
+        "original_title": "Ant-Man and the Wasp: Quantumania",
+        "overview": "Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en una aventura que los hará ir más allá de lo que creían posible.",
+        "popularity": 758.067,
+        "poster_path": "/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+        "release_date": "2023-02-15",
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 1017
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+        "genre_ids": [
+          28,
+          10749,
+          35
+        ],
+        "id": 758009,
+        "original_language": "en",
+        "original_title": "Shotgun Wedding",
+        "overview": "Darcy y Tom reúnen a sus familias para la boda de destino definitiva, pero cuando toman como rehenes a todo el grupo, \"'Til Death Do Us Part\" adquiere un significado completamente nuevo en esta hilarante aventura llena de adrenalina en la que Darcy y Tom deben salvar a sus seres queridos. si no se matan entre ellos primero.",
+        "popularity": 742.959,
+        "poster_path": "/n7wi0dMrp198SGXDNC75Q3EaoGo.jpg",
+        "release_date": "2022-12-28",
+        "title": "Bodas de Plomo",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 650
+      }
+    ],
+    "total_pages": 37477,
+    "total_results": 749540
+  }
